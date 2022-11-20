@@ -1,0 +1,12 @@
+.Home {
+    display: flex;
+    flex-direction: row;
+}
+
+.searchbar {
+    display: flex;
+    width: 1200px;;
+    justify-content: center;
+    align-items: center;
+    /* padding: 20px; */
+}
